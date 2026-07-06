@@ -1,33 +1,33 @@
--- SPDX-FileCopyrightText: 2025 m00nyONE
+n["@Beejy"] = {"Beejy", "|cf82a23@|r|cf14c47B|r|cea6e6ae|r|ce2908de|r|cdbb2b1j|r|cd4d4d4y|r"}-- SPDX-FileCopyrightText: 2025 m00nyONE
 -- SPDX-License-Identifier: Artistic-2.0
 
 local lib_name = "LibCustomNames"
 local lib = _G[lib_name]
 local n = lib.GetNamesTable()
 
-n["@Panadulek"] = {"Panadulek", "Panadulek"}
-n["@Schared"] = {"Schared", "Schared"}
-n["@TerminalVelocity"] = {"Terminal", "Terminal"}
-n["@nogetrandom"] = {"noget", "noget"}
-n["@Vatrokion"] = {"Vatro", "Vatro"}
-n["@david0001"] = {"David", "David"}
-n["@Targets"] = {"Targets", "|c8dd5ffTargets|r"}
-n["@Dextail"] = {"Dex", "|cb30e0eDex|r"}
-n["@KarinFlory"] = {"KarinFlory", "|cE50BFDKarinFlory|r"}
-n["@alperr"] = {"alperr", "alperr"}
-n["@a_lx"] = {"a_lx", "a_lx"}
-n["@Tabatta"] = {"Tabatta", "Tabatta"}
-n["@RN'C"] = {"RNC", "|cffffffR|r|c0088ffN|r|cff2200C|r"}
-n["@RNClive"] = {"RNC", "|cffffffR|r|c0088ffN|r|cff2200C|r"}
-n["@Deekri"] = {"Deekri", "|cff49f1Deekri|r"}
-n["@Amboou"] = {"Amboou", "Amboou"}
-n["@Tenebralz"] = {"Tenebralz", "Tenebralz"}
-n["@bytifyl"] = {"bytifyl", "|cfeecffb|r|cfcd9ffy|r|cfbc6fft|r|cf9b2ffi|r|cf89ffff|r|cf68cffy|r|cf579ffl|r"}
-n["@Kathrein"] = {"Kathrein", "Kathrein"}
-n["@NefasQS"] = {"Nefas", "|cf1f300N|r|ce3f600e|r|cd4f900f|r|cc6fc00a|r|cb8ff00s|r"}
-n["@TheLucifix"] = {"Lucifix", "|c3FBE45Lucifix|r"}
-n["@DaeDraWasaKhajiit"] = {"DaeDra", "|c42f572DaeDra|r"}
-n["@Foxy-Russo"] = {"Foxy", "Foxy"}
+  n["@Panadulek"] = {"Panadulek", "Panadulek"}
+  n["@Schared"] = {"Schared", "Schared"}
+  n["@TerminalVelocity"] = {"Terminal", "Terminal"}
+  n["@nogetrandom"] = {"noget", "noget"}
+  n["@Vatrokion"] = {"Vatro", "Vatro"}
+  n["@david0001"] = {"David", "David"}
+  n["@Targets"] = {"Targets", "|c8dd5ffTargets|r"}
+  n["@Dextail"] = {"Dex", "|cb30e0eDex|r"}
+  n["@KarinFlory"] = {"KarinFlory", "|cE50BFDKarinFlory|r"}
+  n["@alperr"] = {"alperr", "alperr"}
+  n["@a_lx"] = {"a_lx", "a_lx"}
+  n["@Tabatta"] = {"Tabatta", "Tabatta"}
+  n["@RN'C"] = {"RNC", "|cffffffR|r|c0088ffN|r|cff2200C|r"}
+  n["@RNClive"] = {"RNC", "|cffffffR|r|c0088ffN|r|cff2200C|r"}
+  n["@Deekri"] = {"Deekri", "|cff49f1Deekri|r"}
+  n["@Amboou"] = {"Amboou", "Amboou"}
+  n["@Tenebralz"] = {"Tenebralz", "Tenebralz"}
+  n["@bytifyl"] = {"bytifyl", "|cfeecffb|r|cfcd9ffy|r|cfbc6fft|r|cf9b2ffi|r|cf89ffff|r|cf68cffy|r|cf579ffl|r"}
+  n["@Kathrein"] = {"Kathrein", "Kathrein"}
+  n["@NefasQS"] = {"Nefas", "|cf1f300N|r|ce3f600e|r|cd4f900f|r|cc6fc00a|r|cb8ff00s|r"}
+  n["@TheLucifix"] = {"Lucifix", "|c3FBE45Lucifix|r"}
+  n["@DaeDraWasaKhajiit"] = {"DaeDra", "|c42f572DaeDra|r"}
+  n["@Foxy-Russo"] = {"Foxy", "Foxy"}
 n["@Eon-King"] = {"Eon-King", "Eon-King"}
 n["@LimitBreakerZ"] = {"LimitBreakerZ", "|cff7927L|r|cff7227i|r|cff6a27m|r|cff6327i|r|cff5b27t|r|cff5427B|r|cff4c27r|r|cff4527e|r|cff3d27a|r|cff3627k|r|cff2e27e|r|cff2727r|r|cff1f27Z|r"}
 n["@xmichu69x"] = {"michu", "michu"}
